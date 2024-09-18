@@ -1,0 +1,1 @@
+É bem simples essa urna, voce pode abrir pelo executavel que deixei salvo ou copiar o codigo e altero o numero do candidato, mas ele sempre irá criar uma tabela no Sqlite para armazenar os dados dos votos e apuralos logo, depois de finalizar a eleição.
